@@ -28,6 +28,24 @@ html,body {
 }
 
 
+
+/* BODY STYLE */
+.image-1{
+	background:url('../images/blog-img2.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+	height:300px;
+	width:100%;
+	position:relative;
+}
+.super-text{
+	position:absolute;
+	right:50px;
+	top:0;
+	font-size:3.0em;
+}
+
+
 /* FOOTER STYLE */
 #site-footer {
    position:absolute;
