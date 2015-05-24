@@ -39,11 +39,9 @@
                 </nav>
 		<div id="body">
 			<div class="container-fluid main-container">
-<<<<<<< HEAD
-                            <div class="row show-image-1">
-                                
-                            </div>
-=======
+				<div class="row show-image-1">
+					
+				</div>
 				<div class="row">
 					<div class="jumbotron" style="background-color:white;">
 						<h1>We focus on your site!</h1>
@@ -77,7 +75,6 @@
 						Simple text for our simple site. Simple text for our simple site. Simple text for our simple site. </p>
 					</div>
 				</div>
->>>>>>> develop
 			</div>
 		</div>
 		<div class="container-fluid main-container">
