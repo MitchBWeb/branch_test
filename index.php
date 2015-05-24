@@ -22,24 +22,26 @@
 			</div>
 		</div>
 		<nav class="navbar navbar-inverse nav-test">
-            <div class="container-fluid">
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                </div>
-                <div class="collapse navbar-collapse" id="myNavbar">
-                    <ul class="nav navbar-nav">
-                        <li><a href="index.php"><span class="glyphicon glyphicon-home"></span> Home</a></li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
+                    <div class="container-fluid">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                        </div>
+                        <div class="collapse navbar-collapse" id="myNavbar">
+                            <ul class="nav navbar-nav">
+                                <li><a href="index.php"><span class="glyphicon glyphicon-home"></span> Home</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
 		<div id="body">
 			<div class="container-fluid main-container">
-				body stuff
+                            <div class="row show-image-1">
+                                
+                            </div>
 			</div>
 		</div>
 		<div class="container-fluid main-container">
@@ -53,6 +55,6 @@
 				</div>
 			</div>
 		</div>
-	</div>
+        </div>
 	</body>
 </html>
