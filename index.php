@@ -39,9 +39,45 @@
                 </nav>
 		<div id="body">
 			<div class="container-fluid main-container">
+<<<<<<< HEAD
                             <div class="row show-image-1">
                                 
                             </div>
+=======
+				<div class="row">
+					<div class="jumbotron" style="background-color:white;">
+						<h1>We focus on your site!</h1>
+						<p>Simple text for our simple site. Simple text for our simple site. Simple text for our simple site. 
+						Simple text for our simple site. Simple text for our simple site. </p>
+					</div>
+				</div>
+				<div class="row image-1">
+					<h2 class="super-text">Supermen of the Web</h2>
+				</div>
+				<div class="row">
+					<div class="col-sm-4 text-center">
+						<h2>SEO</h2>
+						<p>Simple text for our simple site. Simple text for our simple site. Simple text for our simple site. 
+						Simple text for our simple site. Simple text for our simple site. Simple text for our simple site. 
+						Simple text for our simple site. Simple text for our simple site. Simple text for our simple site. 
+						Simple text for our simple site. Simple text for our simple site. Simple text for our simple site. </p>
+					</div>
+					<div class="col-sm-4 text-center">
+						<h2>PHP</h2>
+						<p>Simple text for our simple site. Simple text for our simple site. Simple text for our simple site. 
+						Simple text for our simple site. Simple text for our simple site. Simple text for our simple site. 
+						Simple text for our simple site. Simple text for our simple site. Simple text for our simple site. 
+						Simple text for our simple site. Simple text for our simple site. Simple text for our simple site. </p>
+					</div>
+					<div class="col-sm-4 text-center">
+						<h2>mySQL</h2>
+						<p>Simple text for our simple site. Simple text for our simple site. Simple text for our simple site. 
+						Simple text for our simple site. Simple text for our simple site. Simple text for our simple site. 
+						Simple text for our simple site. Simple text for our simple site. Simple text for our simple site. 
+						Simple text for our simple site. Simple text for our simple site. Simple text for our simple site. </p>
+					</div>
+				</div>
+>>>>>>> develop
 			</div>
 		</div>
 		<div class="container-fluid main-container">
